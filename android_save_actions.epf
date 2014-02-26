@@ -1,0 +1,10 @@
+# @title Android specific settings
+# @description Enable XML format save action for Android
+# @task_type RECONCILE
+#
+# Copyright 2014 Malachi Soord
+# License Unlicence: http://unlicense.org/
+#
+file_export_version=3.0
+/instance/com.android.ide.eclipse.adt/com.android.ide.eclipse.adt.formatXml=true
+/instance/com.android.ide.eclipse.adt/com.android.ide.eclipse.adt.formatOnSave=true

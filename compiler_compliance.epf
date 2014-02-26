@@ -1,0 +1,11 @@
+# @title Compiler compliance
+# @description Set Java compiler compliance to 1.6
+# @task_type RECONCILE
+#
+# Copyright 2014 Malachi Soord
+# License Unlicence: http://unlicense.org/
+#
+file_export_version=3.0
+/instance/org.eclipse.jdt.core/org.eclipse.jdt.core.compiler.source=1.6
+/instance/org.eclipse.jdt.core/org.eclipse.jdt.core.compiler.compliance=1.6
+/instance/org.eclipse.jdt.core/org.eclipse.jdt.core.compiler.codegen.targetPlatform=1.6
