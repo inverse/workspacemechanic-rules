@@ -2,7 +2,7 @@
 
 A few [workspacemechanic][0] configs that I have been using to develop Android applications. Based on some of the rules in [wimjongman's][1] repo - [myWorkspaceMechanics][2].
 
-### features
+### Features
 
 - Android specific rules such as XML format on save
 - Clean up and save actions
